@@ -1,4 +1,4 @@
-Essa competição de machine learning encontra-se no site Machine Hack. Fiquei em 34º no ranking.
+Essa competição de machine learning encontra-se no site Machine Hack. Fiquei em 32º no ranking.
 Ela consiste na predição de energia solar gerada (DHI, DNI, GHI):
 
 *Irradiação Horizontal Global (GHI) é a quantidade total de radiação solar por unidade de área medida em uma
